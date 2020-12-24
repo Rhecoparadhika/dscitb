@@ -39,7 +39,6 @@ Tensorflow adalah salah satu framework machine learning open-source yang biasany
     <img size ="10%" src="output.jpg">
   </p>
 <p>Catatan : Code yang digunakan adalah code untuk tugas dicoding kelas " ML untuk pemula" dengan rating bintang 5, namun model ini tidak cukup bagus untuk digunakan dalam klasifikasi (terkadang model salah mengklasifikasi). Perlu adanya revisi sehingga model dapat lebih tepat dalam mengklasifikasi gambar.
-  Project : https://github.com/Rhecoparadhika/ml-dicoding
 </p>
 
 <h2> BigQuery </h2>
